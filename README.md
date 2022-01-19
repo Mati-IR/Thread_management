@@ -14,4 +14,4 @@ argv[2] - either "inc" (incline) or "dec" (decline)
 Program utilizes 2 mutexes and 1 semaphore for synchronization of creating and closing the threads
 
 
-c++ 20 is recommended
+c++ 20 is recommended, works on Windows 10
