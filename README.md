@@ -9,6 +9,7 @@ argv[2] - either "inc" (incline) or "dec" (decline)
 
 # example:
 ./main.exe 42 dec
+
 42 threads will be created and closed in declining order 
 
 Program utilizes 2 mutexes and 1 semaphore for synchronization of creating and closing the threads
