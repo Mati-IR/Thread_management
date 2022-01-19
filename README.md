@@ -7,7 +7,7 @@ run program with main arguments:
 argv[1] - number of threads to be created between 3 - 100
 argv[2] - either "inc" (incline) or "dec" (decline)
 
-#example:
+# example:
 ./main.exe 42 dec
 42 threads will be created and closed in declining order 
 
